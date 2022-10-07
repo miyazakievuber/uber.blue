@@ -35,7 +35,7 @@ p{
     /* border:1px solid red; */
     background-color: rgb(5, 157, 157);
     width: 100%;
-    margin: 1em auto;
+    /* margin: 1em auto; */
     margin-bottom: 1em;
     overflow: auto;
 }
@@ -71,7 +71,7 @@ p{
 .banner{
     /* border: 1px solid red; */
     margin-top: -2em;
-    background-image: url(../IMG_2787 2.PNG);
+    background-image: url(../image/IMG_2788.PNG);
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -94,6 +94,17 @@ p{
 
 .bottom:nth-child(3){
     
+}
+
+.bottom{
+    color: #fff;
+
+}
+
+.bottom img{
+    font-size: 1.5em;
+    height: 1.5em;
+    object-fit: cover;
 }
 
 .bottom-1{
