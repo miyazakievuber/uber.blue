@@ -38,7 +38,7 @@ p{
     background-color: rgb(5, 157, 157);
     width: 100%;
     /* margin: 1em auto; */
-    margin-bottom: 1em;
+/*     margin-bottom: 1em; */
     overflow: auto;
 }
 
@@ -72,7 +72,7 @@ p{
 
 .banner{
     /* border: 1px solid red; */
-    margin-top: -2em;
+/*     margin-top: -2em; */
     background-image: url(Snapseed 2.jpg);
     background-position: center;
     background-size: cover;
