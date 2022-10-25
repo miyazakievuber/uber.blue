@@ -28,6 +28,8 @@ p{
 .wrapper{
     width: 100%;
     margin: auto;
+    display:flex;
+    min-height: 100vh
     /* border: 2px solid red; */
 }
 
@@ -90,6 +92,7 @@ p{
     overflow: auto;
     width: 100%;
     height: 4em;
+    margin-top: auto;
 }
 
 .bottom:nth-child(3){
