@@ -89,7 +89,6 @@ p{
     width: 100%;
     height: 650px;
     
-
 }
 
 .banner img{
@@ -107,6 +106,12 @@ p{
     font-size: 30px;
     padding: 0;
     margin: 0;
+}
+
+.banner p{
+    position: absolute;
+	top: 5em;
+	left: 5em;
 }
 
 .footer{
