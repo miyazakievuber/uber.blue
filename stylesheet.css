@@ -108,7 +108,13 @@ p{
     margin: 0;
 }
 
-.banner p{
+.banner p p2{
+    position: absolute;
+	top: 10em;
+	left: 5em;
+}
+
+.banner p p2{
     position: absolute;
 	top: 10em;
 	left: 5em;
