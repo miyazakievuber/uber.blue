@@ -114,6 +114,12 @@ p{
 	left: 5em;
 }
 
+.banner a{
+    position: absolute;
+	top: 13em;
+	left: 7em;
+}
+
 .footer{
     /* position: fixed; */
     margin-bottom: 0;
